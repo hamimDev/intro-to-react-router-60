@@ -1,0 +1,17 @@
+.posts{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 20px; /* Adjust the gap as needed */
+    padding: 20px;
+}
+
+.post{
+    border: 2px solid mediumslateblue;
+    border-radius: 15px;
+    margin: 10px;
+    padding: 20px;
+    background-color: whitesmoke;
+}
+.link{
+    margin: 10px;
+}

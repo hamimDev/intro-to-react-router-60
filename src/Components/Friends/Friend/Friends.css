@@ -1,0 +1,15 @@
+.friends{
+    border: 2px solid goldenrod;
+    margin: 10px;
+    border-radius: 15px;
+    padding: 10px;
+    background-color: cadetblue;
+    color: whitesmoke;
+}
+
+.friendsAll{
+    display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 20px; /* Adjust the gap as needed */
+      padding: 20px;
+}

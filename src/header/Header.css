@@ -1,0 +1,9 @@
+.optionAll{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  
+}
+.optionOne{
+    margin: 10px;
+}
